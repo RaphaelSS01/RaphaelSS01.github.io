@@ -3,9 +3,7 @@
     font-family: 'Fira Code', Arial, Helvetica, sans-serif;
     font-size: 25px;
     color: black;
-}
-.skill-tec .icon{
-    margin-right: 25px;
+    align-items:center ;
 }
 
 .skill-tec .right {
@@ -13,4 +11,27 @@
     flex-direction: column;
     justify-content: space-around;
     margin-right: 10px;
+    text-align: center;
 }
+
+.iconhtml  {
+        width: 150px;
+        height: 150px;
+}
+
+.iconcss {
+    width: 100px;
+    height: 100px;
+    padding-left: 20px;
+    padding-right: 30px;
+}
+
+.iconjs {
+    width: 100px;
+    height: 100px;
+    padding-left: 20px;
+    padding-right: 30px;
+    padding-top: 10px;
+}
+    
+
