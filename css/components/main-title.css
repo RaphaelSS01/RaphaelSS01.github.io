@@ -1,5 +1,5 @@
 
-.title{
+.main-title{
     font-family: 'Fira Code', Arial, Helvetica, sans-serif;
     font-size: 40px;
     color: #001216;
@@ -8,9 +8,10 @@
     margin: 0px;
     
     }
-.title.-second {
+.main-title.-second {
     color: black;
     text-shadow: 4px 1px 2px rgb(151, 151, 151);
     text-align: center;
+    
 
 }
