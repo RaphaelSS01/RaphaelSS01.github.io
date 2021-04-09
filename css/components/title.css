@@ -8,3 +8,9 @@
     margin: 0px;
     
     }
+.title.-second {
+    color: black;
+    text-shadow: 4px 1px 2px rgb(151, 151, 151);
+    text-align: center;
+
+}
