@@ -12,6 +12,10 @@
     color: black;
     text-shadow: 4px 1px 2px rgb(151, 151, 151);
     text-align: center;
-    
+}
 
+.main-title.-titlewhite{
+    color: white;
+    text-shadow: 4px 1px 2px rgb(100, 100, 100);
+    text-align: center;
 }

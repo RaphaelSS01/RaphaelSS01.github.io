@@ -8,3 +8,7 @@
 .section .main-title {
     margin-bottom: 40px;
 }
+
+.section.-bgBlack {
+    background-color: black;
+}
