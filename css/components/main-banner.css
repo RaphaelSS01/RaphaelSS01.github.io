@@ -15,8 +15,8 @@
     width: 600px;
    } 
 
-  .main-banner .box{
-      margin-bottom: 40px;   
+  .main-banner .main-box{
+      margin-bottom: 30px;   
   }
   .main-banner .navigation{
       display: flex;
