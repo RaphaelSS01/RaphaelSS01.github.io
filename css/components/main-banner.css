@@ -1,4 +1,4 @@
-.banner{
+.main-banner{
     background-image: url(../../assets/img/foto.JPG);
     box-sizing: border-box;
     height: 800px;
@@ -9,16 +9,16 @@
     padding-left: 80px;
   }
 
-  .banner .warpper{
+  .main-banner .warpper{
     display: flex;
     flex-direction: column;
     width: 600px;
    } 
 
-  .banner .box{
+  .main-banner .box{
       margin-bottom: 40px;   
   }
-  .banner .navigation{
+  .main-banner .navigation{
       display: flex;
       justify-content:space-around;
       
