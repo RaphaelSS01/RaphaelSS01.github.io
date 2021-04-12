@@ -1,0 +1,19 @@
+.box {
+	min-width: 25%;
+	height: 500px;
+	background-color: red;
+	margin: 1rem;
+	box-shadow: 5px 5px 2px #3D314A;
+	}
+
+.scrolling-wrapper {
+	display: flex;
+	flex-wrap: nowrap;
+	overflow-x: scroll;
+	scrollbar-color: black;
+	}
+.img-scrolling1{
+	height: 100%;
+    width: 100%;
+    object-fit:fill;
+}
